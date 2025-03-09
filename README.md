@@ -61,21 +61,39 @@ Creamos una nueva web pero a traves de wordpress
 
 ![](imagenes/14.png)
 
+Creamos el dominio de nuestro worpdress
+
 ![](imagenes/15.png)
+
+Preparamos la instalacion de wordpress
 
 ![](imagenes/16.png)
 
+Se puede compprobar que tenemos ya instalador wordpress pero esta inseguro y sin configurar.
+
 ![](imagenes/17.png)
+
+Accedemos para comprobar que funciona.
 
 ![](imagenes/18.png)
 
+Preparamos el SSL
+
 ![](imagenes/19.png)
+
+Updateamos wordpress
 
 ![](imagenes/20.png)
 
+Comprobamos wordpress que este actualizado.
+
 ![](imagenes/21.png)
 
+Comprobamos que no cuenta con vulnerabilidades.
+
 ![](imagenes/22.png)
+
+Como podemos comprobar los dos sitios web correctamente instalados.
 
 ![](imagenes/23.png)
 Con esto dariamos por terminada la practica
